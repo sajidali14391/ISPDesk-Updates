@@ -1,0 +1,5 @@
+{
+  "version": "2.1.12",
+  "url": "https://raw.githubusercontent.com/sajidali14391/ISPDesk-Updates/main/ISPDesk-Setup.exe",
+  "releaseNotes": "Update v2.1.12:\n- Automatically record Router, ONU, Splicing, and Cable setup costs as payments on new customer creation.\n- Automatically redirects to printable invoice screen immediately upon registration."
+}
